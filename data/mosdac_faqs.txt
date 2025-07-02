@@ -1,0 +1,60 @@
+[About MOSDAC]
+Q: What is MOSDAC?
+A: MOSDAC stands for Meteorological and Oceanographic Satellite Data Archival Center. It is an ISRO portal that provides satellite-based meteorological and oceanographic data through https://mosdac.gov.in.
+
+Q: What datasets are available on MOSDAC?
+A: MOSDAC provides datasets like satellite data, in-situ data, and AWS (Automatic Weather Station) data. These are accessible from the Catalog section of the portal.
+
+Q: What duration of data is available?
+A: You can find satellite data with duration and frequency details in "Catalog → Satellite Data". AWS data is available from January 2008 to the present.
+
+---
+
+[User Registration and Login]
+Q: How can I register on MOSDAC?
+A: Use the "Sign Up" form on the portal. After submission, you'll receive an approval email.
+
+Q: I received a verification link but it shows an error. What should I do?
+A: Copy the verification hyperlink from your email and paste it into a new browser tab to verify your account.
+
+Q: I get 'Invalid username or password' even with correct credentials.
+A: Your account locks for one hour after three failed login attempts. Try again later.
+
+Q: How can I reset my password?
+A: Use the "Forgot Password" link on the login page. If your email is valid, you'll receive a reset link via email.
+
+Q: How do I change my password?
+A: Log in, go to "Change Profile", select "Password", and enter your old and new passwords.
+
+Q: I don't have a username or password. Can I still download data?
+A: You can only download open-access data. To download restricted data, registration is required.
+
+---
+
+[Data Ordering and Downloads]
+Q: How do I order and download satellite data?
+A: After logging in, go to "Satellite Data Order", select the data, add to cart, and submit the request. A download link will be sent once the data is ready.
+
+Q: How do I order in-situ data?
+A: Log in, use the "In-situ Data Order" option, select your data, accept the agreement, and download via the HTTP link.
+
+Q: Where can I find my downloaded satellite data?
+A: Downloaded satellite data is uploaded to your SFTP account at sftp://ftp.mosdac.gov.in using your credentials.
+
+---
+
+[Real-Time and Special Access]
+Q: How can I access near real-time data?
+A: Privileged users can place a "standing order" for near real-time satellite or in-situ data for up to one month.
+
+Q: I got the message: "Your account is configured to download this data with latency of 3 days." What does it mean?
+A: There are two user categories: NRT (Near Real-Time) and General. General users can download Level-1 data with 3-day latency. NRT users can download real-time data. Contact admin for upgrade.
+
+---
+
+[Catalog and Metadata Info]
+Q: How do I check the number of AWS installed per state?
+A: Use the "Catalog → In-situ → Distribution" to view the AWS distribution map.
+
+Q: How do I view the description of a data product?
+A: Go to "Catalog → Satellite Data" to see abstracts, start/end dates, and frequency of all products.

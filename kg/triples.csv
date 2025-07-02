@@ -1,0 +1,15 @@
+Subject,Predicate,Object
+What is MOSDAC?,refers_to,Meteorological and Oceanographic Satellite Data Archival Center
+What is MOSDAC?,refers_to,ISRO
+What datasets are available on MOSDAC?,refers_to,AWS
+What datasets are available on MOSDAC?,refers_to,Catalog
+What duration of data is available?,refers_to,January 2008
+I get 'Invalid username or password' even with correct credentials.,refers_to,one hour
+How can I reset my password?,refers_to,"the ""Forgot Password"""
+How do I change my password?,refers_to,Password
+How do I order in-situ data?,refers_to,Data Order
+How can I access near real-time data?,refers_to,up to one month
+"I got the message: ""Your account is configured to download this data with latency of 3 days."" What does it mean?",refers_to,3 days
+"I got the message: ""Your account is configured to download this data with latency of 3 days."" What does it mean?",refers_to,3-day
+How do I check the number of AWS installed per state?,refers_to,AWS
+How do I check the number of AWS installed per state?,refers_to,AWS
